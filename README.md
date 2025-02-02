@@ -8,7 +8,7 @@ How to run
 - activate virtual environment by command
   /venv/Script/Activate
 
-- now install lib
+- now install libraries by 
   pip install PyQt5 PyQtWebEngine
 
 - now run your code
